@@ -7,6 +7,7 @@
 ![Overview Dashboard](https://github.com/user-attachments/assets/411ffee9-49b3-4087-92b4-6592cd1ad19d)
 
 ### Details Dashboard
+![Details Dashboard](https://github.com/user-attachments/assets/04c551c8-97af-4b83-8e13-01c17818b268)
 
 
 ## Table of Contents
