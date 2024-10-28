@@ -1,10 +1,16 @@
 # Loan Performance Insights
 
+add dashboard image
+
 ## Table of Contents
 
-[Data Source](#data-source)
+[Project Overview](#project-overview)
 
-[Tools Used](#tools-used)
+[ Dataset Details](#dataset-details)
+
+[Tools Utilized](#tools-utilized)
+
+[Data Cleaning/Preparation](#DataCleaning/Preparation)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -14,6 +20,8 @@
 
 [Limitations](#limitations)
 
+## Project Overview
+This report is designed to monitor and evaluate our bank's lending activities and performance, aiming to provide insights into key loan-related metrics and their trends over time.
 
 ## Dataset Details
 
@@ -49,22 +57,14 @@
 24. **total_payment:** Total payments made over the life of the loan.
 
 
-
-# Project Overview
-This report is designed to monitor and evaluate our bank's lending activities and performance, aiming to provide insights into key loan-related metrics and their trends over time.
-
-## Data Source
-
-**Financial Loan:** The primary dataset utilized for this analysis is the "financial_loan.csv" file, which contains comprehensive details regarding each loan issued by the bank.
-
 ## Tools Utilized
 - **Microsoft SQL Server**
 - **Tableau Desktop** - For Report Creation
   - Links to the Financial_Loan Project and additional Tableau Public Dashboards:
   
-    [Insert Link]
+    [Insert Link] [add link ]
 
-### Data Cleaning/Preparation
+## Data Cleaning/Preparation
 During the initial phase of data preparation, I executed the following steps:
 - Data Loading and Inspection using **MS SQL Server**
   - Employed it to import and refine the dataset.
@@ -74,7 +74,7 @@ During the initial phase of data preparation, I executed the following steps:
   - The "total_payment" field, initially a SMALLINT, was updated to INT to allow for larger values.
   - The "loan_amount" field was similarly adjusted to INT.
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 The exploratory data analysis focused on investigating the financial loan dataset to address essential questions, such as:
 
 A) Key Performance Indicators (KPIs)
@@ -117,7 +117,7 @@ The analysis will consider the following aspects:
    e) Loans by Home Ownership
 
 
-### Data Analysis
+## Data Analysis
 As previously mentioned, the analyses were conducted exclusively using **MS SQL Server**. Below are the key analyses performed:
 
 1. **Total Loan Applications** related to *Month-to-Date (MTD)* and *Previous Month-to-Date (PMTD)*
@@ -433,7 +433,7 @@ Consistently, mortgaged homeowners lead in the total amount received, indicating
 
 ---
 
-### Recommendations
+## Recommendations
 
 Based on the analysis, the following actions are recommended:
 
@@ -447,7 +447,7 @@ Based on the analysis, the following actions are recommended:
 
 5. **Implement Targeted Marketing**: The bank could benefit from targeted marketing campaigns or special loan promotions during high-demand months to further drive application numbers.
 
-### Limitations
+## Limitations
 
 - **Lack of Economic Context**: The analysis lacks specific economic conditions during the loan periods, making it difficult to assess external influences on loan performance and applicant behavior.
 
