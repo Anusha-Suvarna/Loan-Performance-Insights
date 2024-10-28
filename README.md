@@ -21,7 +21,7 @@ add dashboard image
 [Limitations](#limitations)
 
 ## Project Overview
-This report is designed to monitor and evaluate our bank's lending activities and performance, aiming to provide insights into key loan-related metrics and their trends over time.
+This Dashboard is designed to monitor and evaluate our bank's lending activities and performance, aiming to provide insights into key loan-related metrics and their trends over time.
 
 ## Dataset Details
 
