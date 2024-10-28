@@ -1,6 +1,7 @@
 # Loan Performance Insights
 
 ### Summary Dashboard
+![Summary Dashboard](https://github.com/user-attachments/assets/d19481f7-5a45-4bdd-b620-211dd26669a4)
 
 ### Overview Dashboard
 
