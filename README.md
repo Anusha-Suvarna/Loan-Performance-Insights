@@ -383,16 +383,19 @@ California tops again with **$83.9M** received, further underscoring its economi
 ---
 
 #### c) Loan Applications By Employee Length
+
 ![Loan_Apps_by_Emp_length](https://github.com/user-attachments/assets/a319edca-c033-4d71-a526-5d048f98c7c8)
 
 - **New employees** show the highest application rates, while those with over **10 years** tend to apply less frequently.
 
 **Total Funded Amount**
+
 ![Funded_Amount_by_Emp_Length](https://github.com/user-attachments/assets/8c770bf9-cb10-4216-bb21-09f5e76e455e)
 
 Long-tenured employees receive more funding, likely due to trust and stability.
 
 **Total Amount Received**
+
 ![Amount_Received_by_Emp_Length](https://github.com/user-attachments/assets/338d9e3f-2c65-4cd6-9bb0-bad3ca2002b8)
 
 Similar trends are observed, with longer-tenured employees receiving larger amounts.
@@ -400,16 +403,19 @@ Similar trends are observed, with longer-tenured employees receiving larger amou
 ---
 
 #### d) Loan Applications By Purpose
+
 ![Loan_Apps_by_Purpose](https://github.com/user-attachments/assets/b7cb041d-0d2d-4a78-8031-9d4d634f6dd9)
 
 **Debt consolidation** leads the purpose for loans, followed by **credit card debt** and **home improvement**.
 
 **Loan Funded Amount by Purpose**
+
 ![Funded_Amount_by_Purpose](https://github.com/user-attachments/assets/60432b07-a50e-4d84-ae7f-365c1644dbda)
 
 Debt consolidation receives the largest funding, highlighting financial pressures on borrowers.
 
 **Loan Amount Received by Purpose**
+
 ![Amount_Received_by_Purpose](https://github.com/user-attachments/assets/93afeaf9-d0e1-4007-9b10-4a50656619fd)
 
 Debt consolidation also tops the amount received, indicating successful repayment in this category.
@@ -417,16 +423,19 @@ Debt consolidation also tops the amount received, indicating successful repaymen
 ---
 
 #### e) Loan Applications by Home Ownership
+
 ![Tot_Loan_Apps_by_Home_Owned](https://github.com/user-attachments/assets/e1d2652a-1e0e-4ef6-8c72-ff8a3ac4db97)
 
 **Renters** account for the majority of loan applications, with **homeowners with mortgages** following closely.
 
 **Funded Amount By Home Ownership**
+
 ![Tot_Fnd_Amt_by_Home_Owned](https://github.com/user-attachments/assets/0e1ab471-2907-4448-b9cc-ccc5197c33ff)
 
 Mortgaged homeowners receive the largest funding amounts, while renters also have significant funding.
 
 **Amount Received By Home Ownership**
+
 ![Tot_Amt_Rcvd_by_Home_Owned](https://github.com/user-attachments/assets/b2b0c783-d2fa-4242-bc97-32bf73b15700)
 
 Consistently, mortgaged homeowners lead in the total amount received, indicating higher repayment success.
