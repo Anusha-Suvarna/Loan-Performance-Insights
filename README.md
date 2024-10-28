@@ -1,6 +1,11 @@
 # Loan Performance Insights
 
-add dashboard image
+### Summary Dashboard
+
+### Overview Dashboard
+
+### Details Dashboard
+
 
 ## Table of Contents
 
